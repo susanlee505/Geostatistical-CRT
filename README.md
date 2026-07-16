@@ -1,4 +1,4 @@
-# Spatial-Point-Process-CRT
+# Geostatistics-CRT
 Bayesian Spatial Point Process Method for Cluster Randomized Trial
 
 These are codes that run efficiently on Linux parallel computing.
